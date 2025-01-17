@@ -37,13 +37,13 @@ Each agent specializes in a specific aspect of crypto trading and analysis:
 6. **X Agent (`x_agent`)**  
    Analyzes X sentiment for crypto tokens and announces insights.
 
-7. **Listing Arbitrage Agent (`listingarb_agent`)**  
+7. **Listing Arbitrage Agent (`arb_agent`)**  
    Identifies Solana tokens on CoinGecko with potential for major exchange listings, providing technical and fundamental analysis.
 
 8. **Funding Agent (`funding_agent`)**  
    Monitors funding rates and detects extreme situations, delivering technical context with voice alerts.
 
-9. **Chart Agent (`chartanalysis_agent`)**  
+9. **Chart Agent (`analysis_agent`)**  
     Analyzes crypto charts to provide buy/sell recommendations using AI.
 
 ---
@@ -51,8 +51,8 @@ Each agent specializes in a specific aspect of crypto trading and analysis:
 ## **🚀 Progress & Roadmap**
 
 ### **Phase 1: Foundation & Basic Trading ✅**
-✅ Establish basic project structure
-✅ Set up the environment
+- ✅ Establish basic project structure
+- ✅ Set up the environment
 - Collect token data
 - Implement basic trading functions
 - Integrate market data APIs
