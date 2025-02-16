@@ -56,9 +56,9 @@ Each agent specializes in a specific aspect of crypto trading and analysis:
 - ✅Collect token data
 - ✅Implement basic trading functions
 - ✅Integrate market data APIs
-- Develop risk management with PnL limits
-- Introduce risk agent minimum balance protection
-- Build Copy bot portfolio analyzer
+- ✅Develop risk management with PnL limits
+- ✅Introduce risk agent minimum balance protection
+- ✅Build Copy bot portfolio analyzer
 
 ---
 
